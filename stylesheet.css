@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: red;
+    font-family: Arial;
+}
+h2{
+    font-family: Arial;
+    text-align: center;
+}    
+h4{
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.adiverso{
+    text-decoration: none;
+    color: black;
+}
+.back{
+    width: 60%;
+    height: 120px;
+    border-radius: 20px 20px 20px 20px;
+    background: #F7EC7D;
+}
+img{
+    border-radius: 20px 20px 20px 20px;
+}
+.backorg{
+    width: 100%;
+    height: 213px;
+    border-radius: 20px 20px 20px 20px;
+}
+.destra{
+    float: right;
+    margin-left: 10px;
+}
+.sinistra{
+    float: left;
+    margin-right: 10px;
+}
